@@ -1,0 +1,3 @@
+-- DROP TABLE
+
+DROP TABLE persons8;
